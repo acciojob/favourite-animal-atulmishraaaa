@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+img{
+	width:50%;
+	height:50%;
+	border-radius:15px;
+	box-shadow:5px 2px 10px black;
+}
